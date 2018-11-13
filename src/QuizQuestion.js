@@ -4,6 +4,7 @@ class QuizQuestion extends Component {
     state = {  }
     render() { 
         return (  
+            
             <main>
             <section>
               <p>{this.props.quiz_question.instruction_text}</p>
