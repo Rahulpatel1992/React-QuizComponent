@@ -9,7 +9,7 @@ class Quiz extends Component {
        super(props)
        this.state ={quiz_position: 1}
     }
-    render() { 
+    render() {
         const isQuizEnd =   true
         return (
             <div>
