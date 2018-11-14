@@ -8,7 +8,7 @@ class QuizEnd extends Component {
                 <a href=''>Reset Quiz</a>
             </div>
         );
-    }
+    } 
 }
  
 export default QuizEnd;
